@@ -60,7 +60,7 @@ This AI-driven Checkers Game project is designed to provide an engaging gaming e
 
 ## Run the Game:
   '```bash
-python checkers_game.py
+python main.py
 
 
 Contributions
