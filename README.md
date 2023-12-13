@@ -46,6 +46,20 @@ This AI-driven Checkers Game project is designed to provide an engaging gaming e
 - **Game Logic:** The foundation of the game, encompassing the rules and mechanics of Checkers.
   
 - **User Interface:** An intuitive interface designed to provide a seamless and enjoyable gaming experience.
+- 
+## Contributions
+
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+
+## Credits
+
+This Checkers Game AI project was developed by Gaurav Kumar. For any inquiries or feedback, please contact gauravkumar1w@gmail.com.
+
+##Contact
+
+Email: gauravkumar1w@gmail.com
+Enjoy the strategic challenge of Checkers with our AI-powered opponent!
 
 ## How to Run the Game
 
@@ -63,16 +77,7 @@ This AI-driven Checkers Game project is designed to provide an engaging gaming e
 python main.py
 
 
-Contributions
-Contributions are welcome! Feel free to open issues or submit pull requests.
 
-
-Credits
-This Checkers Game AI project was developed by Gaurav Kumar. For any inquiries or feedback, please contact gauravkumar1w@gmail.com.
-
-Contact
-Email: gauravkumar1w@gmail.com
-Enjoy the strategic challenge of Checkers with our AI-powered opponent!
 
 
 
