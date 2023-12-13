@@ -52,21 +52,25 @@ This AI-driven Checkers Game project is designed to provide an engaging gaming e
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/GauravKumar1w/Checkers.git
-## Navigate to the Project Directory:
+## Navigate to the Project Directory
 
-```bash
-cd Checkers
-## **Run the Game:**
-bash
+   ```bash
+   cd Checkers
 
+
+## Run the Game:
+  '```bash
 python checkers_game.py
-## Contributions
+
+
+Contributions
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-## Credits
+
+Credits
 This Checkers Game AI project was developed by Gaurav Kumar. For any inquiries or feedback, please contact gauravkumar1w@gmail.com.
 
-## Contact
+Contact
 Email: gauravkumar1w@gmail.com
 Enjoy the strategic challenge of Checkers with our AI-powered opponent!
 
